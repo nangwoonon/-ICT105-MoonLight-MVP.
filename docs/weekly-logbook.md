@@ -19,9 +19,9 @@ IT venture ideas: Budget Tracker App, Student Study Planner, and Campus Event Fi
 
 ### Evidence of Work
 - GitHub repository link: https://github.com/nangwoonon/-ICT105-MoonLight-MVP.
-- Screenshot: Added repository and issue screenshots
-- File created: README.md, team-profile.md, idea-log.md
-- Commit link:  
+- Screenshot: 
+- File created:  README.md, docs/team-profile.md, docs/idea-log.md, docs/weekly-logbook.md
+- Commit link:  https://github.com/nangwoonon/-ICT105-MoonLight-MVP./commits?author=nangwoonon&since=2026-05-31&until=2026-06-15
 
 ### Decision Made This Week
 Our team decided to develop a simple student budget tracker application as the main IT venture idea.
