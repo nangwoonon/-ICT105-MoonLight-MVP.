@@ -1,5 +1,5 @@
 #ICT105-Moonlight-MVP
-# Project Name-Budget tracker for students
+# Project Name-Budget tracker
 ## Course Information
 Course Code: ICT105
 Course Name: Fundamental Technology Entrepreneurship
@@ -11,38 +11,34 @@ MoonLight
 | Name | Role | Responsibility |
 |---|---|---|
 | Nang Woo Non | Product Lead+validation lead| Define problem, target users, and value proposition |
-| Thiri Thant | Technical Lead+UI/UX Lead| Manage repository and prototype feasibility |
-| Thiri Sandar | Documentation Lead | Design interface and maintain documentation |
+| Thiri Thant | Technical Lead+UI/UX Lead| Manage repository and Design interface |
+| Thiri Sandar | Documentation Lead | Maintain documentation |
 ## Initial Problem Area
-Briefly describe the general problem area your team is interested in.
+Many people cannot manage their expenses properly and often overspend.
 ## Target Users
-Describe the possible user group affected by the problem.
+People who want to track their daily spending and budget.
 ## Initial IT Venture Direction
-Briefly describe the possible IT solution direction.
+Develop a simple budget tracker app that helps people record and manage expenses easily.
 ## Technology Possibility
 Possible technologies:
 - Web application
 - Mobile application
 - Dashboard
-- AI-assisted feature
 - Cloud-based system
-- IoT-supported system
-- Cybersecurity tool
-- SaaS platform
-- Marketplace or digital platform
 ## Repository Structure
-- docs: reports, profiles, idea logs, and weekly logbooks
-- prototype: source code or clickable prototype files
-- data: survey responses, validation data, and metrics
-- finance: financial assumptions and model
-- diagrams: user flow and technical architecture diagrams
-- screenshots: evidence of prototype and repository progress
-- pitch: pitch deck and final demo files
+- docs: reports, profiles, idea logs, and weekly reflections
+- prototype: source code and UI
+prototype files
+- data: survey responses and validation data
+- finance: budget planning and financial assumptions
+- diagrams: user flow and system design diagrams
+- screenshots: evidence of project progress and prototype
+- pitch: presentation slides and demo materials
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
 | Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
 ## Current Status
-Write 3-5 sentences about what the team completed in Lab 1.
+In Lab 1, our team completed the repository setup, assigned team roles, and selected the Budget Tracker project idea. We also identified the target users and initial problem area.
 ## Next Step
-Write what the team will do in Lab 2.
+In Lab 2, our team will create the initial UI wireframe, conduct basic user research, and begin developing the prototype structure.
