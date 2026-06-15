@@ -1,17 +1,18 @@
-# Project Name
+#ICT105-Moonlight-MVP
+# Project Name-Budget tracker for students
 ## Course Information
 Course Code: ICT105
 Course Name: Fundamental Technology Entrepreneurship
 Instructor: Dr. Herison Surbakti
 Project Type: 14-Labs Continuous IT Startup MVP Development
 ## Team Name
-Write your team name here.
+MoonLight
 ## Team Members and Roles
 | Name | Role | Responsibility |
 |---|---|---|
-| Student A | Product Lead | Define problem, target users, and value proposition |
-| Student B | Technical Lead | Manage repository and prototype feasibility |
-| Student C | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
+| Nang Woo Non | Product Lead+validation lead| Define problem, target users, and value proposition |
+| Thiri Thant | Technical Lead+UI/UX Lead| Manage repository and prototype feasibility |
+| Thiri Sandar | Documentation Lead | Design interface and maintain documentation |
 ## Initial Problem Area
 Briefly describe the general problem area your team is interested in.
 ## Target Users
