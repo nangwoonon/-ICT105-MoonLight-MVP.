@@ -42,3 +42,8 @@ prototype files
 In Lab 1, our team completed the repository setup, assigned team roles, and selected the Budget Tracker project idea. We also identified the target users and initial problem area.
 ## Next Step
 In Lab 2, our team will create the initial UI wireframe, conduct basic user research, and begin developing the prototype structure.
+## Initial Problem Area
+## Target Users
+## Selected IT Venture Direction
+## Current Status
+## Next Step
