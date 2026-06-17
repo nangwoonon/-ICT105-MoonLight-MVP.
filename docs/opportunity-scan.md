@@ -17,9 +17,9 @@
 ## Technology Feasibility Mapping
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
 |---|---|---|---|---|---|
-| Idea 1 | | | | Low | Yes |
-| Idea 2 | | | | Low | Yes |
-| Idea 3 | | | | Medium | Yes |
-| Idea 4 | | | | Low | Yes |
-| Idea 5 | | | | Medium | Yes |
-| Idea 6 | | | | Low | Yes |
+| Budget Tracker | Web App | HTML/CSS/JS | | Low | Yes |
+| Study Planner | Web App | HTML/CSS/JS | | Low | Yes |
+| Event Finder | Web App | HTML/CSS/JS | | Medium | Yes |
+| Lost & Found | Landing Page | Airtable | | Low | Yes |
+| Queue Management System | Web App | HTML, CSS, JavaScript | Queue Number | Medium | Yes |
+| Internship Dashboard | Dashboard | Google Sheets | | Low | Yes |
