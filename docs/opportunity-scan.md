@@ -8,18 +8,18 @@
 ## Opportunity Discovery Table
 | No. | Observed Problem | Target User | Current Alternative | Possible IT Solution | Feasible Technology |
 |---|---|---|---|---|---|
-| 1 | Poor expense tracking | Students | | | |
-| 2 | Missed deadlines | Students | | | |
-| 3 | Missing event information | Students | | | |
-| 4 | Lost items on campus | Students | | | |
-| 5 | | Customers | | | |
-| 6 | Tracking internships | Students | | | |
+| 1 | Poor expense tracking | Students | Notebook | Budget Tracker| HTML/CSS/JS |
+| 2 | Missed deadlines | Students | Calendar Apps | Study Planner| HTML/CSS/JS |
+| 3 | Missing event information | Students | Social media | Event Finder | Web App |
+| 4 | Lost items on campus | Students | Chat groups | Lost and Found system | Airtable |
+| 5 | Queue Management App | Customers | Waiting in line | Queue booking app | HTML/CSS/JavaScript|
+| 6 | Tracking internships | Students | Excel | Internship Dashboard | Google Sheets |
 ## Technology Feasibility Mapping
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
 |---|---|---|---|---|---|
-| Idea 1 | | | | Low / Medium / High | Yes / No |
-| Idea 2 | | | | Low / Medium / High | Yes / No |
-| Idea 3 | | | | Low / Medium / High | Yes / No |
-| Idea 4 | | | | Low / Medium / High | Yes / No |
-| Idea 5 | | | | Low / Medium / High | Yes / No |
-| Idea 6 | | | | Low / Medium / High | Yes / No |
+| Idea 1 | | | | Low | Yes |
+| Idea 2 | | | | Low | Yes |
+| Idea 3 | | | | Medium | Yes |
+| Idea 4 | | | | Low | Yes |
+| Idea 5 | | | | Medium | Yes |
+| Idea 6 | | | | Low | Yes |
