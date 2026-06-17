@@ -2,9 +2,9 @@
 ## Ideas Reviewed from Lab 1
 | Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction |
 |---|---|---|---|---|
-| Idea 1 | | | | |
-| Idea 2 | | | | |
-| Idea 3 | | | | |
+| Budget Tracker App | Expense management | Students and Young professionals | Notebooks,Spreadsheets,Memory | Mobile App/Web App |
+| Student Study Planner | Manage Exams | Students | Paper planners,Calendars | App with scheduling Features |
+| Campus Event Finder | Miss events | Student organizations | Social media posters and  word-of-mouth communication | event management system |
 ## Opportunity Discovery Table
 | No. | Observed Problem | Target User | Current Alternative | Possible IT Solution | Feasible Technology |
 |---|---|---|---|---|---|
