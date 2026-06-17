@@ -23,3 +23,5 @@
 | Lost & Found | Landing Page | Airtable | | Low | Yes |
 | Queue Management System | Web App | HTML, CSS, JavaScript | Queue Number | Medium | Yes |
 | Internship Dashboard | Dashboard | Google Sheets | | Low | Yes |
+
+https://docs.google.com/spreadsheets/d/1LyuHrQRV_BVuUXKZERxcxuDemLAOxVTbWPW4-_gmqK0/edit?usp=sharing
