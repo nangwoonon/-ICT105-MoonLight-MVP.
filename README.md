@@ -43,7 +43,14 @@ In Lab 1, our team completed the repository setup, assigned team roles, and sele
 ## Next Step
 In Lab 2, our team will create the initial UI wireframe, conduct basic user research, and begin developing the prototype structure.
 ## Initial Problem Area
+Many people have difficulty managing their daily expenses and often spend more than their budget. Existing methods are inconvenient or difficult to maintain consistently.
 ## Target Users
+ Students who want to manage their expenses.
+ Young professionals who need to track spending and savings.
+ Anyone looking for a simple budgeting solution.
 ## Selected IT Venture Direction
+Our team selected to develop a Budget Tracker application. The system will allow users to record expenses, categorize transactions, and monitor their spending habits through an easy-to-use interface.
 ## Current Status
+The team has completed the repository setup, assigned team roles, and finalized the project idea. We also identified the target users and gathered initial requirements for the application.
 ## Next Step
+The next step is to design the Ul wireframe, conduct basic user research, and start developing the prototype structure and core features.
