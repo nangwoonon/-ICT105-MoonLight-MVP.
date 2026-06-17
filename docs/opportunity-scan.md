@@ -8,12 +8,12 @@
 ## Opportunity Discovery Table
 | No. | Observed Problem | Target User | Current Alternative | Possible IT Solution | Feasible Technology |
 |---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
+| 1 | Poor expense tracking | Students | | | |
+| 2 | Missed deadlines | Students | | | |
+| 3 | Missing event information | Students | | | |
+| 4 | Lost items on campus | Students | | | |
+| 5 | | Customers | | | |
+| 6 | Tracking internships | Students | | | |
 ## Technology Feasibility Mapping
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
 |---|---|---|---|---|---|
