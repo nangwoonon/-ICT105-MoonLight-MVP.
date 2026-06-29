@@ -63,7 +63,7 @@ Although Queue Booking is a useful idea, it received a lower NUF score (11) and 
 - Selected opportunity file:/docs/selected-opportunity.md
 - GitHub issue screenshot: <img width="1918" height="1078" alt="Screenshot 2026-06-17 161744" src="https://github.com/user-attachments/assets/6cb1f77e-4c5b-4520-a270-e17d145ae33e" />
 
-- Commit link: https://github.com/nangwoonon/-ICT105-MoonLight-MVP./commits?author=nangwoonon&since=2026-05-31&until=2026-06-15
+- Commit link: https://github.com/nangwoonon/-ICT105-MoonLight-MVP./commits/main/
 
 ### Plan for Lab 03
 The team will conduct customer problem discovery by interviewing students and young professionals about their spending habits and budgeting challenges. We will collect feedback, identify common problems, and validate whether the proposed Budget Tracker solution addresses real user needs.
